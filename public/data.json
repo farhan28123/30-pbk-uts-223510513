@@ -1,0 +1,19 @@
+{
+    "data": [
+      {
+        "No": "1",
+        "Nama_Acara": "Tiger Nixon",
+        "Tanggal": "System Architect",
+        "Keterangan": "$320,800",
+        "Status": "Selesai"
+      },
+      {
+        "No": "2",
+        "Nama_Acara": "Tiger Nixon",
+        "Tanggal": "System Architect",
+        "Keterangan": "$320,800",
+        "Status": "Dibatalkan"
+      }
+    ]
+  }
+  
